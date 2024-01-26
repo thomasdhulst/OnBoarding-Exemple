@@ -8,6 +8,7 @@ This repository serves as a demonstration of implementing data persistence in Fl
 
 For a more detailed explanation and insights, refer to the accompanying article on [IPPON.BLOG]()
 
+<img src="docs/annexe6.gif" alt="Gif qui présente le onboarding" width="30%" title="Onboarding">
 
 ## Key Features
 
