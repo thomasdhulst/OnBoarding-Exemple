@@ -25,14 +25,6 @@ class MainApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    precacheImage(
-        const AssetImage(
-          "assets/image1.jpg",
-        ),
-        context);
-    precacheImage(const AssetImage("assets/image2.jpg"), context);
-    precacheImage(const AssetImage("assets/image3.jpg"), context);
-
     return MaterialApp.router(
       debugShowCheckedModeBanner: false,
       routeInformationProvider: appRouter.routeInformationProvider,
